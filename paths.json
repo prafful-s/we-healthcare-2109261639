@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/flosi/tjmg-demo-new/language-masters/en:/",
+    "/content/flosi/tjmg-demo-new/language-masters/en/:/en/",
+    "/content/flosi/tjmg-demo-new/configuration:/.helix/config.json",
+    "/content/flosi/tjmg-demo-new/metadata:/metadata.json",
+    "/content/flosi/tjmg-demo-new/redirects:/redirects.json",
+    "/content/flosi/tjmg-demo-new/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/flosi/tjmg-demo-new/",
+    "/content/dam/flosi/tjmg-demo-new/"
   ]
 }
